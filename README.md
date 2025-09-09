@@ -41,6 +41,8 @@ Passionate Software Engineering student who loves building clean backends, thoug
 
 ### Databases & Tools
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![DBeaver](https://img.shields.io/badge/DBeaver-372923?logo=databricks&logoColor=white)
 ![Laragon](https://img.shields.io/badge/Laragon-0E83CD?logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
