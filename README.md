@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm **SenoImponent** (LDNVN86)
+# 👋 Hi, I'm **SenoImpotent** (LDNVN86)
 
 Passionate Software Engineering student who loves building clean backends, thoughtful APIs, and practical front‑ends. I enjoy learning by shipping small projects and exploring new technologies.
 
