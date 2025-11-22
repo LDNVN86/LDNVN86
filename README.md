@@ -34,7 +34,6 @@ Passionate Software Engineering student who loves building clean backends, thoug
 ### Frameworks & Libraries
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white)
 ![Gorilla Mux](https://img.shields.io/badge/Gorilla%20Mux-1F1F1F?logo=go&logoColor=white)
-![Go-Chi](https://cdn.rawgit.com/go-chi/chi/master/_examples/chi.svg)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
