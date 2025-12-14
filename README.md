@@ -18,8 +18,6 @@ Passionate Software Engineering student who loves building clean backends, thoug
 - Databases & tools I use: **PostgreSQL**, **DBeaver**, local Windows stack **Laragon**, and daily **Linux/Ubuntu**.
 - Hobbies: anime, stories, algorithms, and exploring new tech.
 
-> _“Build small, build often, and keep it clean.”_
-
 ---
 
 ## 🧰 Tech Stack
@@ -68,14 +66,6 @@ Passionate Software Engineering student who loves building clean backends, thoug
 
 - GitHub: [@LDNVN86](https://github.com/LDNVN86)
 - Discord: [Profile](https://discord.com/users/1102459554454847558)
-
-
-### ✅ Checklist (for future me)
-
-- [ ] Add sample **Dockerfile** for Go and Spring Boot
-- [ ] Add SQL migrations (e.g., **Flyway**/**Liquibase**)
-- [ ] Add **unit/integration tests**
-- [ ] Publish small demo projects regularly
 
 ---
 
