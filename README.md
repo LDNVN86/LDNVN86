@@ -145,7 +145,7 @@
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://ldn86.dev">
+  <a href="https://ldn86dev.io.vn">
     <img src="https://img.shields.io/badge/Portfolio-ldn86.dev-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
   <a href="https://discord.com/users/1102459554454847558">
