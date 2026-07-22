@@ -17,7 +17,7 @@
   <img src="https://komarev.com/ghpvc/?username=LDNVN86&style=for-the-badge&color=6366F1"/>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+---
 
 ## 🚀 Summary
 
@@ -28,7 +28,7 @@
 - 🗄️ **PostgreSQL**, **Redis**, **Docker**, Centrifugo realtime, VPS ops with Traefik/Caddy + Cloudflare
 - 🎨 Hobbies: anime, stories, algorithms, and exploring new tech
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+---
 
 ## 🏆 Flagship Products — Live in Production
 
@@ -127,7 +127,7 @@
   </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+---
 
 ## 🚀 Featured Projects
 
@@ -196,7 +196,7 @@
   </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+---
 
 ## 🧰 Tech Stack
 
@@ -231,13 +231,13 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+---
 
 ## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=LDNVN86&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LDNVN86&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LDNVN86&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=css,scss,html" height="165"/>
 </div>
 
 <div align="center">
@@ -258,7 +258,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=LDNVN86&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8&margin-h=8" width="96%"/>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+---
 
 ## 🐍 Contribution Snake
 
@@ -270,7 +270,7 @@
   </picture>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+---
 
 ## 🤝 Connect With Me
 
