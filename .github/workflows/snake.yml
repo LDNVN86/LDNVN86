@@ -24,7 +24,6 @@ jobs:
           outputs: |
             dist/github-snake.svg?palette=github-dark&color_snake=#6366f1
             dist/github-snake-light.svg?palette=github&color_snake=#6366f1
-            dist/ocean.gif?color_snake=#6366f1&color_dots=#0d1117,#1e2a4a,#2e4374,#4b56d2,#6366f1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
