@@ -251,13 +251,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=LDNVN86&theme=tokyo-night&hide_border=true&area=true&radius=8" width="96%"/>
 </div>
 
-<br/>
-
-<!-- Trophies -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LDNVN86&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8&margin-h=8" width="96%"/>
-</div>
-
 ---
 
 ## 🐍 Contribution Snake
