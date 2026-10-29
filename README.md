@@ -8,7 +8,7 @@
 
 I build and operate software for real businesses, with a focus on dependable integrations, complex business processes, and systems that remain correct when things go wrong.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-ldn86.dev-2563EB?style=flat-square&logo=googlechrome&logoColor=white)](https://ldn86.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ldn86.dev-2563EB?style=flat-square&logo=googlechrome&logoColor=white)](https://ldn86dev.io.vn)
 [![GitHub](https://img.shields.io/badge/GitHub-LDNVN86-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/LDNVN86)
 [![Discord](https://img.shields.io/badge/Discord-Connect-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/1511339489526812672)
 
@@ -136,7 +136,7 @@ Besides my public projects, I develop and offer a small selection of **private t
 
 **Building useful systems, one business problem at a time.**
 
-[Website](https://ldn86.dev) · [GitHub](https://github.com/LDNVN86) · [Discord](https://discord.com/users/1511339489526812672)
+[Website](https://ldn86dev.io.vn) · [GitHub](https://github.com/LDNVN86) · [Discord](https://discord.com/users/1511339489526812672)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,55:1e40af,100:0891b2&height=80&section=footer" width="100%" alt="Footer wave" />
 
